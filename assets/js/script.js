@@ -62,4 +62,4 @@ function gameOver(gameWon) {
   }
 }
 
-// 27:33
+// 30:45 (=> basic AI andd winners box)
